@@ -1,3 +1,25 @@
+
 body {
-    background: blue;
+    background: #F2E3D5;
+    margin-left: 150px;
+    margin-right: 150px;
+    margin-bottom: 50px;
+}
+
+p {
+    color: #6C735D;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+h1 {
+    color: #BF3636; 
+}
+
+h2 {
+    color: #BF6550;
+}
+
+h3 {
+    color: #ca8e6b;
 }
